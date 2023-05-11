@@ -1,0 +1,6 @@
+# ignore dotenv
+.env
+
+*.txt
+*.json
+*.prof
